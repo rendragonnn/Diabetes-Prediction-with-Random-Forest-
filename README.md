@@ -1,6 +1,4 @@
-"# CycleGAN-Monet-Inspired-Image" 
-"# CycleGAN-Monet-Inspired-Image" 
-"# CycleGAN-Monet-Inspired-Image" 
+
 "# Diabetes-Prediction-with-Random-Forest-" 
 "# Diabetes-Prediction-with-Random-Forest-" 
 "# Diabetes-Prediction-with-Random-Forest-" 
